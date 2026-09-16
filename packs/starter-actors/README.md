@@ -1,0 +1,1 @@
+This folder will be populated by Foundry itself once you create the "starter-actors" compendium pack inside this module and drag Actors into it. Don't edit files in here by hand — they're a binary database Foundry manages.

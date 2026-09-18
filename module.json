@@ -2,7 +2,7 @@
   "id": "songs-and-swords-content",
   "title": "Songs & Swords - Starter Content",
   "description": "Premade Actors and Items for the Songs & Swords system, intended to help new users get started quickly.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14.0.0",

@@ -1,0 +1,46 @@
+{
+  "id": "songs-and-swords-content",
+  "title": "Songs & Swords - Starter Content",
+  "description": "Premade Actors and Items for the Songs & Swords system, intended to help new users get started quickly.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.0.0",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "d100-system",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "starter-actors",
+      "label": "Songs & Swords - Starter Actors",
+      "path": "packs/starter-actors",
+      "type": "Actor",
+      "system": "d100-system"
+    },
+    {
+      "name": "starter-items",
+      "label": "Songs & Swords - Starter Items",
+      "path": "packs/starter-items",
+      "type": "Item",
+      "system": "d100-system"
+    }
+  ],
+  "url": "https://github.com/ryanwhistler93-star/Songs-Swords-Content",
+  "manifest": "https://github.com/ryanwhistler93-star/Songs-Swords-Content/releases/latest/download/module.json",
+  "download": "https://github.com/ryanwhistler93-star/Songs-Swords-Content/releases/latest/download/module.zip",
+  "license": "MIT",
+  "readme": "README.md"
+}
